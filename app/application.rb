@@ -12,7 +12,7 @@ class Application
     else
       resp.write "You lose!"
     end
-    
+
     resp.finish
   end
 
